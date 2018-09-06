@@ -21,9 +21,7 @@ Type `:ConqueTerm <command>` to run your command in vim, for example::
 History
 =======
 
-This project is a clone of the original Conque plugin by Nico Raffo, located at
-http://code.google.com/p/conque/
+This project is an unofficial clone of the original Conque plugin  by Nico Raffo (nicoraffo at gmail.com), located at https://code.google.com/archive/p/conque/ (previously at http://code.google.com/p/conque/).
 
-The project had been abandoned for more than a year, and so I decided to clone
-it over to github and see if I couldn't improve it.  If you'd like to
-contribute, open an issue (or even better, a pull request!).  Thanks!
+The last release on Google Code is version 2.3 (on 2011-09-02).
+If you'd like to contribute, open an issue (or even better, a pull request!).  Thanks!
