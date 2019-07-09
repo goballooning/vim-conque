@@ -1,3 +1,5 @@
+"Vim 8 now also supports `terminal` feature" See QA here: https://vi.stackexchange.com/questions/12031/is-there-an-upgraded-version-of-the-conque-plugin.
+
 ======
 Conque
 ======
