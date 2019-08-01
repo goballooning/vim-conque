@@ -1,6 +1,4 @@
-**`Vim` supports `terminal` feature now**: https://www.vim.org/vim-8.1-released.php.
-
-See QA/examples on StackExchange: https://vi.stackexchange.com/questions/12031/is-there-an-upgraded-version-of-the-conque-plugin.
+**Vim supports terminal feature now**: https://www.vim.org/vim-8.1-released.php.
 
 ======
 Conque
