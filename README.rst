@@ -1,4 +1,4 @@
-**Vim supports terminal feature now**: https://www.vim.org/vim-8.1-released.php.
+Note that Vim also supports terminal feature now: https://www.vim.org/vim-8.1-released.php.
 
 ======
 Conque
