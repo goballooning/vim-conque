@@ -27,3 +27,6 @@ This project is an unofficial clone of the original Conque plugin  by Nico Raffo
 
 The last release on Google Code is version 2.3 (on 2011-09-02).
 If you'd like to contribute, open an issue (or even better, a pull request!).  Thanks!
+
+
+License: MIT License
